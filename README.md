@@ -11,6 +11,14 @@
 7. Apa yang anda ketahui tentang Orchestration Container System?
 
 Cara pengerjaan, silahkan update file ini tulis jawabanya di bawah ini
+1. Devops merupakan pihak yang menengahi antara tim Developer dan Operations yang memiliki peran untuk menciptakan workflow yang lebih lancar dan efisien antara apa yang dikerjakan oleh Software Development dengan IT Operations.
+2. Insfrastruktur adalah kumpulan komponen seperti Hardware, Software, OS, data storage, Sistem Operasi yang diperlukan untuk membangun serta menjalankan aplikasi dalam suatu organisasi
+3. Server adalah suatu sistem komputer yang menyediakan sumber daya untuk penyimpanan data, meskipun demikian server juga dapat di kembangkan kebutuhannya untuk banyak client mulai dari untuk email, DNS, hingga website. Contoh layanan web server yang umum digunakan Apache atau Nginx. Contoh implementasinya adalah hosting web.
+4. Server dibutuhkan dalam tahap pengembangan suatu software karena selain memastikan sistem tetap online dan berperan untuk melayani klien nantinya. Server juga memberikan kekuatan pemrosesan tinggi dengan spesifikasi RAM dan CPU yang lebih baik
+5. - Virtualiasi adalah teknologi yang dapat digunakan untuk menciptakan versi virtual dari suatu teknologi yang berbentu fisik seperti server, penyimpanan, jaringan, dan mesin fisik lainnya.
+- Container adalah software yang digunakan untuk mempermudah pengembangan aplikasi dengan cara mengemas kode serta semua dependensinya dan mengisolasi suatu aplikasi secara virtual sehingga aplikasi dapat berjalan dengan cepat dan andal dari suatu lingkungan komputasi ke lingkungan komputasi lainnya.
+6. Selain karena kelebihan containernya itu sendiri seperti Penskalaan sistem & pendistribusian software yang lebih cepat serta fleksibilitas dalam mengoperasikan aplikasi dalam container. Container populer karena berbagai faktor lain seperti, mulia jatuhnya mesin virtual.
+7. Orkestrasi container adalah proses untuk mengelola penerapan, integrasi, penskalaan, dan siklus hidup perangkat lunak dan aplikasi dalam container di lingkungan yang kompleks dan dinamis. Sebagai alat otomatisasi, ia menganalisis, mengatur, dan mengintegrasikan aplikasi dan layanan di tingkat operasi dasar.
 
 ## Task 1 (Virtualization)
 
